@@ -5,7 +5,7 @@
 # Folders
 
 ```
-UnrealGame/       # Unreal Engine Files. Developers only please.
+UnrealProject/       # Unreal Engine Files. Developers only please.
 Resources/        # Binaries Resources; Images, Video, Fonts, Sketches, Sculpts, Etc
 Documents/        # Text Documents, and markdowns containing links to resources.
 Builds/           # Compiled Game and its metadata FOR TESTING URPOSES ONLY.
