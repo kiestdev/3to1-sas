@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/DebugWorld.umap",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/BP_NPCController.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/BP_NPCPawn.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/DebugWorld-NPC_Comp.umap",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/NewBehaviorTree.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/AI_Tree.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/Context.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/AI_Blackboard.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/AI_Query.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/AIController.uasset",
+				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/NPC_Comp/BTT_MoveToIdle.uasset",
 				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/BP_PlayerController.uasset",
 				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/BP_PlayerCharacter.uasset",
 				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/Input/Actions/IA_Move.uasset",
@@ -24,8 +35,7 @@
 				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/Input/NewInputAction.uasset",
 				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/Input/IA_Move.uasset",
 				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/Input/Actions/NewInputAction.uasset",
-				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/PlayerController.uasset",
-				"/Users/crumpm/Desktop/SAS/3to1-sas/UnrealProject/SpecialArcaneService/Content/DebugWorld.umap"
+				"/Users/cornett-smallwoodm/Documents/GitHub/3to1-sas/UnrealProject/SpecialArcaneService/Content/PlayerComponent/PlayerController.uasset"
 			]
 		}
 	]
